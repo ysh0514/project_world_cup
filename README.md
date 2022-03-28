@@ -277,4 +277,4 @@ noData ? (
 
 #### react-google-login 을 활용한 구글 로그인 구현
 
-- react-google-login 라이브러리를 활용해 사용자에게 구글 로그인을 지원하고 사용자의 정보를 이용할 수 있게 사용자 정보를 state 값으로 저장했습니다
+- react-google-login 라이브러리를 활용해 사용자에게 구글 로그인을 지원하고 사용자의 정보를 이용할 수 있게 사용자 정보를 state 값으로 저장했습니다.
